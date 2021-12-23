@@ -20,7 +20,7 @@
         "path": "./snippets/c.json"
       },
       {
-        "language": "dartls",
+        "language": "dart",
         "path": "./snippets/flutter.json"
       },
       {
